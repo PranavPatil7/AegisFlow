@@ -2,32 +2,9 @@
 <p align="center">Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations.</p>
 
 ---
-<p align="center">
-  <strong>📢 New Name Alert:</strong> Multi-Agent Orchestrator is now <strong>Agent Squad!</strong> 🎉<br>
-  Same powerful functionalities, new catchy name. Embrace the squad!
-</p>
+
 
 ---
-
-<p align="center">
-  <a href="https://github.com/awslabs/agent-squad"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repo-green.svg" /></a>
-  <a href="https://www.npmjs.com/package/agent-squad"><img alt="npm" src="https://img.shields.io/npm/v/agent-squad.svg?style=flat-square"></a>
-  <a href="https://pypi.org/project/agent-squad/"><img alt="PyPI" src="https://img.shields.io/pypi/v/agent-squad.svg?style=flat-square"></a>
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://img.shields.io/github/stars/awslabs/agent-squad?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/awslabs/agent-squad?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/awslabs/agent-squad?style=social" alt="GitHub watchers">
-</p>
-
-<p align="center">
-  <!-- Repository Info -->
-  <img src="https://img.shields.io/github/last-commit/awslabs/agent-squad" alt="Last Commit">
-  <img src="https://img.shields.io/github/issues/awslabs/agent-squad" alt="Issues">
-  <img src="https://img.shields.io/github/issues-pr/awslabs/agent-squad" alt="Pull Requests">
-</p>
 
 <p align="center">
   <a href="https://awslabs.github.io/agent-squad/" style="display: inline-block; background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 15px; transition: background-color 0.3s;">
@@ -442,43 +419,3 @@ This policy helps us:
 - Keep a structured development process
 - Make project history more traceable and understandable
 
-## 🤝 Contributing
-
-⚠️ Note: Our project has been renamed from **Multi-Agent Orchestrator** to **Agent Squad**. Please use the new name in your contributions and discussions.
-
-⚠️ We value your contributions! Before submitting changes, please start a discussion by opening an issue to share your proposal.
-
-Once your proposal is approved, here are the next steps:
-
-1. 📚 Review our [Contributing Guide](CONTRIBUTING.md)
-2. 💡 Create a [GitHub Issue](https://github.com/awslabs/agent-squad/issues)
-3. 🔨 Submit a pull request
-
-
-✅ Follow existing project structure and include documentation for new features.
-
-
-🌟 **Stay Updated**: Star the repository to be notified about new features, improvements, and exciting developments in the Agent Squad framework!
-
-# Authors
-
-- [Corneliu Croitoru](https://www.linkedin.com/in/corneliucroitoru/)
-- [Anthony Bernabeu](https://www.linkedin.com/in/anthonybernabeu/)
-
-# 👥 Contributors
-
-Big shout out to our awesome contributors! Thank you for making this project better! 🌟 ⭐ 🚀
-
-[![contributors](https://contrib.rocks/image?repo=awslabs/agent-squad&max=2000)](https://github.com/awslabs/agent-squad/graphs/contributors)
-
-
-Please see our [contributing guide](./CONTRIBUTING.md) for guidelines on how to propose bugfixes and improvements.
-
-
-## 📄 LICENSE
-
-This project is licensed under the Apache 2.0 licence - see the [LICENSE](https://raw.githubusercontent.com/awslabs/agent-squad/main/LICENSE) file for details.
-
-## 📄 Font License
-This project uses the JetBrainsMono NF font, licensed under the SIL Open Font License 1.1.
-For full license details, see [FONT-LICENSE.md](https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt).
