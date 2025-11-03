@@ -1,4 +1,4 @@
-<h2 align="center">Agent Squad</h2>
+<h2 align="center">AegisFlow</h2>
 <p align="center">Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations.</p>
 
 ---
@@ -6,11 +6,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://awslabs.github.io/agent-squad/" style="display: inline-block; background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 15px; transition: background-color 0.3s;">
-    📚 Explore Full Documentation
-  </a>
-</p>
 
 
 ## 🔖 Features
